@@ -43,7 +43,7 @@ class App extends Component {
           <div className='container'>
             <h1>What are you looking for in {this.city.val}?</h1>
             <ReactBingmaps
-              bingmapKey="[AnkCwkueFlIAM0ovEIfrqPMCa_BplzmBl9ZG0hkTjAvyft05E8wKt3mgyZI0YUrh]"
+              bingmapKey="API KEY"
               center={[13.00,45.00]}
               width="100px"
             >
